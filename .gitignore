@@ -1,0 +1,36 @@
+# MATLAB/Simulink specific files
+*.asv
+*.slxc
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexmaci64
+
+# Simulink cache and autosave files
+slprj/
+*.slx.autosave
+*.slx.original
+*.slxc
+
+# MATLAB project files
+*.prj
+
+# Generated files
+*.m~
+*.mat
+
+# System files
+.DS_Store
+Thumbs.db
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Cache directories
+cache/
+temp/
