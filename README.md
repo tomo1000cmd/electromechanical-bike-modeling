@@ -1,7 +1,7 @@
 # Electromechanical Bike Modeling
 
 ## Project Overview
-
+![model](https://github.com/tomo1000cmd/electromechanical-bike-modeling/blob/main/pms.png)
 This project implements comprehensive modeling and simulation of an electromechanical bike system with DC motor propulsion using MATLAB/Simulink. The project focuses on the electrical and mechanical dynamics of an electric bike drive system, developed as part of the Practice Modelling and Simulation (PMS) module for the Master Engineering Systems program at Han University of Applied Sciences.
 
 ## Author Information
